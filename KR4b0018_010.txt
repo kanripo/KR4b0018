@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 庾子山集
+#+DATE: 2015-09-11 07:44:27
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 10
+¶
+夕
